@@ -1,0 +1,21 @@
+# === DIPENDENZE PRODUZIONE ===
+
+# Framework web per creare API REST
+fastapi==0.104.1
+
+# Server ASGI per eseguire FastAPI
+uvicorn==0.24.0
+
+# Validazione e serializzazione dati
+pydantic==2.5.0
+
+
+# === DIPENDENZE SVILUPPO ===
+
+# Testing
+# pytest==7.4.3
+# httpx==0.25.2  # Per testare chiamate API
+
+# Formattazione codice
+# black==23.12.1
+# flake8==6.1.0
